@@ -1,11 +1,11 @@
-using MyWebApi.Models;
+using CvAPI2.Models;
 
 public interface IUserService
 {
     IEnumerable<User> GetUsers();
-    User GetUserByID(int ID);
+    User GetUserByID(int id);
     void AddUser(User user);
-    void updatedUser(int ID, User user);
-    void deleteUser(int ID);
+    void updatedUser(int id, User user);
+    void deleteUser(int id);
     
 }

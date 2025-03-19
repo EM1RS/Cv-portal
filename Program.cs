@@ -1,9 +1,5 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Http.Json;
 using System.Text.Json.Serialization;
-using System.Text.Json;
-using System;
-using MyWebApi.Services;
+using CvAPI2.Services;
 var builder = WebApplication.CreateBuilder(args);
 builder.WebHost.UseUrls("http://localhost:5005");
 
@@ -22,7 +18,7 @@ builder.Services.AddControllers()
 //    options.UseInMemoryDatabase("UsersDb"));
 
 builder.Services.AddSingleton<IUserService, UserService>();
-
+builder.Services.AddSingleton<IUserRepository, UserRepository>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

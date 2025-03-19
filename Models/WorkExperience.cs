@@ -1,4 +1,4 @@
-namespace MyWebApi.Models
+namespace CvAPI2.Models
 {
     public class WorkExperience
     {

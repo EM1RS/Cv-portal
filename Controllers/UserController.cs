@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using MyWebApi.Models;
-using MyWebApi.Services;
+using CvAPI2.Models;
+using CvAPI2.Services;
 using System.Collections.Generic;
 
 namespace MyWebApi.Controllers

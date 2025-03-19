@@ -31,3 +31,4 @@ C:\Users\eso\OneDrive - TRIMIT\Dokumenter\ES\Gokstad Akademiet\Prosjekt - Emne 9
 C:\Users\eso\OneDrive - TRIMIT\Dokumenter\ES\Gokstad Akademiet\Prosjekt - Emne 9\CvApi2\obj\Debug\net8.0\CvApi2.pdb
 C:\Users\eso\OneDrive - TRIMIT\Dokumenter\ES\Gokstad Akademiet\Prosjekt - Emne 9\CvApi2\obj\Debug\net8.0\CvApi2.genruntimeconfig.cache
 C:\Users\eso\OneDrive - TRIMIT\Dokumenter\ES\Gokstad Akademiet\Prosjekt - Emne 9\CvApi2\obj\Debug\net8.0\ref\CvApi2.dll
+C:\Users\eso\OneDrive - TRIMIT\Dokumenter\ES\Gokstad Akademiet\Prosjekt - Emne 9\CvApi2\obj\Debug\net8.0\CvApi2.sourcelink.json
